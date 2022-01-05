@@ -1,0 +1,21 @@
+.Contenedor{
+    border: 3px solid black;
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+.Item{
+    width: 200px;
+    height: 200px;
+    margin:0 auto;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
